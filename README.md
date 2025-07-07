@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Julieta Benítez
 
-<!--
-**julietajbenitez/julietajbenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Analyst with 6+ years of experience in manual testing (functional, usability, API) and currently transitioning to QA Automation.  
+🔍 Passionate about software quality, continuous improvement and user experience.  
+⚙️ Tools I'm working with: Selenium, Playwright, Postman, Git, MySQL  
+📚 Currently learning: Test automation frameworks and scripting in Python.
 
-Here are some ideas to get you started:
+## 🧪 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [QA Automation Portfolio](https://github.com/julietajbenitez/qa-automation-portfolio)
+- [Selenium Test Project](https://github.com/julietajbenitez/selenium-test-project)
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/julieta-jazmin-benitez-2751b6137/)

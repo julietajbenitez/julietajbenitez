@@ -1,6 +1,6 @@
 # Hi, I'm Julieta Benítez
 
-QA Analyst with 6+ years of experience in manual testing (functional, usability, API) and currently transitioning to QA Automation.  
+QA Analyst with 7 years of experience in manual testing (functional, usability, API) and currently transitioning to QA Automation.  
 Tools I'm working with: Selenium, Playwright, Postman, Git, MySQL  
 Currently learning: Test automation frameworks and scripting in Python.
 

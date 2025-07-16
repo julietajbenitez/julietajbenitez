@@ -11,4 +11,4 @@ Currently learning: Test automation frameworks and scripting in Python.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/julieta-jazmin-benitez-2751b6137/)
+- [LinkedIn](https://www.linkedin.com/in/julieta-jazmin-benitez)
